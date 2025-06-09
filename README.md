@@ -1,12 +1,6 @@
-
-Hi, This is Bharath Simha Reddy Kothapeta
-
-I have completed my B.tech in the year 2023 from Jawaharlal Nehru Technological University Hyderabad.
-
-I'm currently studying for a master's degree at NorthWest Missouri State University
-
-My interests include playing video games and chess.
-
-
-<!--
-**kothapetaBharathSimhaReddy/kothapetaBharathSimhaReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Bharath Simha Reddy
+🎓 Master's in Computer Science @ Northwest Missouri State University
+💻 Passionate about Full Stack Development | Cloud | DevOps
+🛠️ Tech Stack: Java, Python, Swift, JavaScript, React, Spring Boot, Node.js, SQL, AWS
+🚀 Projects: Real Estate Price Prediction, Instagram Clone, Gesture-Based Home Automation
+📫 Let's connect: LinkedIn | ✉️ bharathsimhareddykothapeta@gmail.com
